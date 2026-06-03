@@ -134,9 +134,9 @@ html_content = '''
 <body>
 
 <div class="login-box" id="loginBox">
-    <h2>RAAJVEER BOSS PANEL</h2>
-    <input type="text" id="username" placeholder="Type Username...">
-    <input type="password" id="password" placeholder="Type Password...">
+    <h2>SAMRA BOSS PANEL</h2>
+    <input type="text" id="username" placeholder="Type Username...">samali12
+    <input type="password" id="password" placeholder="Type Password...">samra12
     <button class="login-btn" onclick="login()">LOGIN</button>
 </div>
 
